@@ -4,3 +4,17 @@
     padding: 0;
     box-sizing: border-box;
   }
+  .content{
+    text-decoration: solid;
+    text-transform: capitalize;
+    text-justify:auto;
+  }
+  .content:hover{
+    color: darkorange;
+  }
+
+ .project-name{
+    text-decoration: solid;
+    text-transform: capitalize;
+    text-justify: auto;
+ }

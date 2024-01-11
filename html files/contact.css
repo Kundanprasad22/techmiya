@@ -1,0 +1,13 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+ 
+.main-content{
+    color:#070707;
+    padding: 15px;
+    text-decoration: solid;
+    display: block;
+}
